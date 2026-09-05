@@ -29,3 +29,8 @@ button {
   padding: 10px 16px;
   cursor: pointer;
 }
+
+#about {
+  border-left: 4px solid #333;
+  padding-left: 16px;
+}
